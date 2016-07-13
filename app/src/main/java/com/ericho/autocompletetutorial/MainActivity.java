@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
 
     AutoCompleteTextView text;
     MultiAutoCompleteTextView text1;
-    String[] languages={"Android ","java","IOS","SQL","JDBC","Web services"};
+    String[] languages={"Android","java","IOS","SQL","JDBC","Web services"};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
